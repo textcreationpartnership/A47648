@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the assizes held at Lincoln, March the 6th, 1691/2 before the right honourale [sic] Sir John Holt, Kt., lord chief justice of England / by Walter Leightonhouse ... ; printed at the earnest request of the gentlemen of the country.</title>
+            <author>Leightonhouse, Walter, 1656-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47648</idno>
+            <idno type="STC">Wing L1032B</idno>
+            <idno type="STC">ESTC R202676</idno>
+            <idno type="EEBO-CITATION">27259879</idno>
+            <idno type="OCLC">ocm 27259879</idno>
+            <idno type="VID">110057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the assizes held at Lincoln, March the 6th, 1691/2 before the right honourale [sic] Sir John Holt, Kt., lord chief justice of England / by Walter Leightonhouse ... ; printed at the earnest request of the gentlemen of the country.</title>
+                  <author>Leightonhouse, Walter, 1656-1701.</author>
+               </titleStmt>
+               <extent>[8], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: A sermon preached at the Lincoln assizes, March the 6th, 1691/2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd, XIX, 6-7 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:110057:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at <hi>Lincoln Aſſizes. <hi>March,</hi>
+               </hi> the 6th. 1691/2.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:110057:2" rendition="simple:additions"/>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>Guil. Lancaſter <hi>R. P. D.</hi> Hen. Epiſc. Lond. à Sacris Domeſt.</signed>
+               <date>
+                  <hi>March 24. 1691/2.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:110057:2" rendition="simple:additions"/>
+            <p>A SERMON Preached at the ASSIZES HELD AT LINCOLN, <hi>March</hi> the 6<hi rend="sup">th.</hi> 1691/2. Before the Right HONOURALE Sir <hi>JOHN HOLT,</hi> K<hi rend="sup">t</hi>, Lord Chief Juſtice of <hi>England.</hi>
+            </p>
+            <p>By WAL. LEIGHTONHOUSE, Rector of <hi>Waſhingburgh</hi> nigh <hi>Lincoln,</hi> and late Fellow of <hi>Lincoln</hi> College, <hi>Oxon.</hi>
+            </p>
+            <p>Printed at the earneſt requeſt of the Gentlemen of the Country.</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <bibl>Phil. in Palamede.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Crook,</hi> at the <hi>Green-Dragon</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-Bar,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:110057:3" rendition="simple:additions"/>
+            <pb facs="tcp:110057:3"/>
+            <head>To the Right Honourable Sir <hi>JOHN HOLT,</hi> K<hi rend="sup">t</hi>, Lord Chief Juſtice of the King's Bench, and one of His Majeſties moſt Honourable Privy-Council. AND To the Right Worſhipful <hi>EDWARD PAYNE,</hi> of <hi>How,</hi> in the County of <hi>Lincoln,</hi>
+               <abbr>Eſq</abbr>, High Sheriff of the County of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable, and Right Worſhipful,</salute>
+            </opener>
+            <p>THO I was importunately ſolicited to make the following Diſcourſe publick, not only by the Gentry of the Country, but likewiſe by moſt of the Learned in the Law, who were part of that nume<g ref="char:EOLhyphen"/>rous Auditory before whom it was deliver'd; yet the Senſe of my own incapacity at the beſt, together with thoſe few days which my preſſing Occaſions would allow me, to fit my ſelf for ſuch an under<g ref="char:EOLhyphen"/>taking,
+<pb facs="tcp:110057:4"/>made me demur for ſome time ere I durſt correſpond with their Requeſts. And indeed nothing but the conſideration of Two ſuch <hi>great Patrons your ſelves,</hi> (who may each of you lay juſt Claim to it), could have prevail'd with me to have repriev'd it to a longer Life. You both are ſo great encouragers of the Subject it <hi>chiefly</hi> Treats of, (<hi>Juſtice</hi> and <hi>Mercy</hi>) that as they ſeem riveted in your very Conſtitution; ſo you may claim a natural Right to this Diſcourſe. So that as moſt Perſons are neceſſitated to ſcrew up their Inventions to fit Epiſtles Dedicatory, by <hi>Flattery</hi> and <hi>Applauſe,</hi> to make the <hi>Subject</hi> of which they Treat, and the <hi>Perſon</hi> to whom they Dedicate, to <hi>quadrate</hi> with each other. There is ſuch an agreeableneſs between your Genius and the Matter compris'd in the ſubſe<g ref="char:EOLhyphen"/>quent Diſcourſe, that ſhould I ſay it decyphers each of you, there is no part of the World that is thorough<g ref="char:EOLhyphen"/>ly read in either of your Tempers, which would think the Encomium undeſervedly plac'd. <hi>You my Lord,</hi> from your firſt ſetting out into the World, have had the Character of <hi>Wiſe, Juſt, Good,</hi> and <hi>Be<g ref="char:EOLhyphen"/>nign,</hi> and as every day adds to your Knowledge, ſo does it to the luſtre of your Glory too. For by the conti<g ref="char:EOLhyphen"/>nual
+<pb facs="tcp:110057:4"/>and impartial Exerciſe of Juſtice, ſtill <hi>beſtud<g ref="char:EOLhyphen"/>ed</hi> with <hi>Mercy,</hi> you beautifie your Place, high as it is, abundantly more than it can adorn you; and thereby embelliſh that Fountain from whence you derive your Commiſſion. And were you really to hear the ſentiments and expreſſions of all good Men in your late Circuit, concerning your Lordſhips <hi>Wiſ<g ref="char:EOLhyphen"/>dom, Induſtry,</hi> and <hi>Compaſſion,</hi> joyn'd with an unbias'd Care for <hi>Equity,</hi> 'twould outſtrip Hy<g ref="char:EOLhyphen"/>perbole itſelf, and conſtrain you to bluſh at their ſo frequent admiration of your Vertues.</p>
+            <p>And as for you Sir, you have always mov'd un<g ref="char:EOLhyphen"/>der that excellent Character of having oblig'd all that know you, by your extraordinary <hi>Candour, Cle<g ref="char:EOLhyphen"/>mency,</hi> and <hi>Juſtice.</hi> And altho the Sphere, you move in, be not ſo conſpicuous as that of his Lord<g ref="char:EOLhyphen"/>ſhips, yet that Specimen which you have always gi<g ref="char:EOLhyphen"/>ven of a strict regard to <hi>Juſtice</hi> and Commiſerati<g ref="char:EOLhyphen"/>on, is a ſufficient evidence, that in what Poſt ſo<g ref="char:EOLhyphen"/>ever you were plac'd, you would act according to the Rules of Prudence and Sincerity. But beſides all this Sir, I have a greater Tie to lay this at your Feet, as an expreſſion of that indelible Gratitude which I muſt ever owe to you: And tho Flattery be
+<pb facs="tcp:110057:5"/>ſo ſordid a thing, and ſo much againſt my Temper, that you know Sir, I would ſooner die than be guilty of it; yet the fault would be as great on the other hand, ſhould I wrap up ſuch favours as I have re<g ref="char:EOLhyphen"/>ceiv'd from you, in a dark obſcurity. For I muſt not be aſham'd to own, that (beſides all other kind<g ref="char:EOLhyphen"/>neſſes, which are vaſtly great) I owe that which is dearer than Life, even my Liberty itſelf, to your exceeding great Favour; you alone having been the Inſtrument of freeing me in a great meaſure, from thoſe ſorrows which a Romiſh Adverſary forc'd me to grapple with. And therefore be pleas'd to accept of this, as a Monument of my publick acknowledg<g ref="char:EOLhyphen"/>ment, which is all the favour I ſhall at preſent ask from you; only that you will both of you vouchſafe to excuſe the freedom of this Dedication, and Pa<g ref="char:EOLhyphen"/>tronize it (not for the merits of its Author, but) in hope that it may, in ſome meaſure, promote that important Work, which is the Subject of the follow<g ref="char:EOLhyphen"/>ing Papers; which will add infinite Satisfaction to,</p>
+            <closer>
+               <dateline>
+                  <date>April <hi>2. 1692.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your</hi> Honours <hi>and</hi> Worſhips, <hi>moſt unfeignedly Devoted, and moſt humble Servant,</hi> Walter Leightonhouſe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:110057:5"/>
+            <head>A SERMON Preached at <hi>Lincoln Aſſizes.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>2 Chron. 19.6, 7.</hi>
+               </bibl>
+               <q>
+                  <p>Take heed what you do, for ye judge not for man, but for the Lord who is with you in the judgment.</p>
+                  <p>Wherefore let the fear of the Lord be upon you, take heed and do it; for there is no iniquity with the Lord our God, nor re<g ref="char:EOLhyphen"/>ſpect of perſons, nor taking of gifts.</p>
+               </q>
+            </epigraph>
+            <p>ALthough mankind be by the inſtinct of Na<g ref="char:EOLhyphen"/>ture a ſociable Being, and delights in Con<g ref="char:EOLhyphen"/>verſe and Society; yet ſuch is the pravity of his Inclinations, that were there not a Coercive Power from without, as well as a Senſe of God and Religion from within; the whole World would in
+<pb n="2" facs="tcp:110057:6"/>a little time be turn'd into one ſingle Aceldama.</p>
+            <p>The ſturdy Lyon or the bloody Tyger, the Leopard or the Panther, will rarely, if at all, prey upon their own Species: Yet Man tho endued with Reaſon, ſticks not to be guilty of a more brutiſh Cruelty. The Firſt-born of the World, did inhu<g ref="char:EOLhyphen"/>manly Butcher his own Brother: and <hi>Iſrael</hi> (Gods choſen one) ſupplanted and over-reacht the Firſt-born of <hi>Iſaac.</hi>
+            </p>
+            <p>And men are ſo mighty prone to theſe things, that were it not for humane Sanctions, the Dens and Caves of the Earth would be our ſafeſt retreat, to ſecure our ſelves from wrong and injury. Na<g ref="char:EOLhyphen"/>tural Religion indeed lays ſtrong Ties upon a man's Conſcience to anſwer the Ends of his Being, and re<g ref="char:EOLhyphen"/>vealed Religion doth much more ſo; but yet the Axes of a Temporal Authority, are ſo much more cogent than natural Truths, or ſupernatural Reve<g ref="char:EOLhyphen"/>lation, that <hi>Aaron</hi>'s <hi>Rod</hi> would do little good unleſs fortified by the <hi>Power and Scepter of Moſes.</hi> If there were no Law to reſtrain man within the Fences and Mounds of Juſtice, his Strength would be the only Rule of his Will, and the Standard of his Actions. That would be mine which I could get by force; and yet I ſhould have Right to it no longer than whilſt a more powerful Arm graſpt it from me. The Sons of Violence would engroſs what their Swords could reach, and the beſt Patriot might ſtarve, whilſt the unjuſt Banditti were ſurrounded with Plenty. Trade and Commerce would be empty Names; and
+<pb n="3" facs="tcp:110057:6"/>Rapine and Injuſtice would be as common as Stones in the Streets. Liberty and Property would be ba<g ref="char:EOLhyphen"/>niſh'd the Earth, and our Lives as well as our Eſtates would be in continual Jeopardy. A Tumultuous Rabble would inſult over the greateſt Potentates; and an illbred Mob tread upon the learned and grave. <hi>Tribulation and Anguiſh</hi> would be the Portion of the vertuous and religious, and perpetual Dread and Fear would crowd into the Hearts of all the Sons of <hi>Adam.</hi>
+            </p>
+            <p>Theſe and innumerable worſe Calamities would, like an unbridled Deluge, overflow univerſal Man<g ref="char:EOLhyphen"/>kind, were there no reſtraints but what are impos'd by Nature or by Grace; and were the Purple and the Scarlet taken from us, the State and the Altar would ſoon be ſo too.</p>
+            <p>So that 'tis to ſuch as you, <hi>my Lord,</hi> that we owe both the ſafety of our Perſons, the ſecurity of our Eſtates, and the enjoyment of our Religion; and all military Conqueſts abroad would do us little ſer<g ref="char:EOLhyphen"/>vice, unleſs you kept our Peace at home. 'Tis by your Adminiſtration alone that Piety is advanced; Truth preſerved, Tranquility ſettled, Privilege bound<g ref="char:EOLhyphen"/>ed, Innocency protected, Learning encouraged, our Perſons ſecured from Violence, and our Eſtates from Plunder. In ſhort, <hi>'Tis Judgment alone that eſtabliſh<g ref="char:EOLhyphen"/>eth a Land.</hi> Prov. 19.4. And the exerciſe of that is by the Great King of Heaven and Earth repoſed in your Hands: And therefore you have need to <hi>Take heed what you do: for ye judge not for man, but for the
+<pb n="4" facs="tcp:110057:7"/>Lord, who is with you in the judgment. Wherefore let the fear of the Lord be upon you, take heed and do it; for there is no iniquity in the Lord our God, nor reſpect of Perſons, not taking of gifts.</hi>
+            </p>
+            <p>Which words were ſpoken by good <hi>Jehoſaphat</hi> King of <hi>Judah,</hi> and may properly be call'd his Charge to the Judges, when he Commiſſioned them to go their ſe<g ref="char:EOLhyphen"/>veral Circuits; and import as tho he had expreſſed himſelf more largely thus,</p>
+            <p>I am now about to entruſt you with a concern of no leſs Moment, than the Welfare of my Sub<g ref="char:EOLhyphen"/>jects, the Honor of my Perſon, and the Eſtabliſh<g ref="char:EOLhyphen"/>ment of my Kingdom; and therefore 'tis neceſſary that I adviſe you in a Matter of ſo great Weight, to be careful and circumſpect how you behave your ſelves, in the Management of ſo great a Charge; greater perhaps than you, at firſt ſight, conceive it to be. For altho 'tis true you have your Commiſ<g ref="char:EOLhyphen"/>ſion from me, yet the Judgment which is com<g ref="char:EOLhyphen"/>mitted to your Charge, belongs to a much greater than I am; for it is not mine but the<note n="*" place="margin">Deut. <hi>1.</hi> v. <hi>17.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>i. e.</hi> Judicium eſt Dei &amp; Deo utroque enim modo reddi foreſt, commendatum vo<g ref="char:EOLhyphen"/>bis eſt a Deo &amp; Dei nomine il<g ref="char:EOLhyphen"/>lud adminiſtratis</note> Lords, who is con<g ref="char:EOLhyphen"/>ſtantly preſent in your Courts of Judicature, and ſtands by and ſees all your Proceedings, hears all your Awards and Arbitraments, and un<g ref="char:EOLhyphen"/>derſtands the whole Proceſs of the Hall. Wherefore let his dreadful Preſence ſtrike you into an awful regard of him, and let it oblige you to act as im<g ref="char:EOLhyphen"/>partially, as tho he was really viſible to your bo<g ref="char:EOLhyphen"/>dily Eyes.</p>
+            <pb n="5" facs="tcp:110057:7"/>
+            <p>I doubt not, but were I your King perſonally up<g ref="char:EOLhyphen"/>on the Bench with you, no Judgment which was evidently falſe, would either for Favor or Affection, Lucre or Intereſt, proceed out of your Lips. Yet alas! what am I when compared to the great King of Heaven and Earth? I can 'tis true at my pleaſure ſend you a <hi>Quietus,</hi> but what is that to the Terrors of the Omnipotent <hi>Jehovah,</hi> who when provoked <hi>is a con<g ref="char:EOLhyphen"/>ſuming Fire?</hi> and who will moſt certainly ſummons you before the Tribunal of Heaven, call you to a ſtrict Account, and <hi>if you have accepted of the perſon of the wicked, and overthrown the righteous in Judgment. Prov.</hi> 18.5. notwithſtanding your Veſtments of Honor, if your Sins be of the ſame Dye, you ſhall in the Day of Vengeance <hi>be covered with a Robe of ſhame, and be clad in confuſion as with a Cloak. For there is no iniquity with the Lord our God, but juſtice and judgment are the habitation of his Throne. Pſal.</hi> 89.14. from whence he <hi>cannot be moved at any time, thorough reſpect of Perſons or taking of Gifts,</hi> but be the Cir<g ref="char:EOLhyphen"/>cumſtances of the Man never ſo poor, or never ſo lofty, <hi>God judgeth not according to outward appearance, but judgeth righteous Judgment,</hi> and from the Equita<g ref="char:EOLhyphen"/>bleneſs of thoſe proceedings, no Intereſt or Paſſion, no gilded Title or honorable Employ, no Truſt or Ability can divert him; therefore let my Advice ſeem ſeaſonable to you this Day, and <hi>take heed what you do, for you judge not for Man, but for the Lord, who is with you in the Judgment</hi> &amp;c.</p>
+            <pb n="6" facs="tcp:110057:8"/>
+            <p>This is briefly the Paraphraſe of the Text, which ſuggeſts unto us theſe following Particulars.</p>
+            <list>
+               <item>I. That Judges do perſonate God himſelf, who is</item>
+               <item>II. A conſtant Eye witneſs of all their Proceedings, and therefore,</item>
+               <item>III. They ought to be very circumſpect, and to have a reverential Awe and Fear upon them, for that,</item>
+               <item>IV. If they <hi>pervert Judgment God will vindicate his own Honor,</hi> and puniſh them ſeverely for it. <hi>For there is no iniquity with the Lord our God, nor reſpect of perſons nor taking of gifts.</hi>
+               </item>
+            </list>
+            <p>All theſe ſeem plainly imply'd in the Text. Upon each of which, I purpoſed to have enlarged at this time, but in the treating of them, I found my Me<g ref="char:EOLhyphen"/>ditations croud in ſo thick upon me, that (for fear of being too tedious) I was obliged to confine my ſelf to ſpeak only to the Two former of them.</p>
+            <list>
+               <item>I. That Judges do perſonate God himſelf, who is</item>
+               <item>II. A conſtant Eye witneſs of all their Proceedings. Of which in their Order,</item>
+            </list>
+            <p>And firſt, Judges do perſonate God himſelf.</p>
+            <p>And for this Reaſon it is, that the Greek Fathers do frequently denominate Magiſtrates <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Co<g ref="char:EOLhyphen"/>aſſeſſors with God in the Throne of Judgment. Not that he delivers up an abſolute Sovereignty to them; but they as his Stewards, Deputies or Lieutenants, are ſubſtituted to repreſent him, in adminiſtring Ju<g ref="char:EOLhyphen"/>ſtice and Equity, maintaining Order and ſupporting Peace, among the Children Men, <hi>helping them to right who ſuffer wrong, juſtifying the righteous and con<g ref="char:EOLhyphen"/>demning
+<pb n="7" facs="tcp:110057:8"/>the wicked. Deut.</hi> 25.1. And for this pur<g ref="char:EOLhyphen"/>poſe the Almighty hath been pleaſed to impreſs his own Character upon them, and to ſtile them by his own peculiar Title. <hi>Thou ſhalt not revile the Gods, nor curſe the ruler of thy people, Exod.</hi> 22.28. And who thoſe Gods there mentioned were, you may ſee, if you pleaſe to have recourſe to the 8 Verſe of that Chapter. <hi>If the thief be not found, then the maſter of the houſe ſhall be brought unto the Judges,</hi> thoſe were the <hi>Gods</hi> before mentioned; thus again <hi>Pſal.</hi> 86.6. <hi>I have ſaid ye are Gods,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Gods, i. e.</hi> in reſpect to the Fountain of their Power, which was from the Moſt High, who for that reaſon ho<g ref="char:EOLhyphen"/>nored them with his own Name. And 'tis a moſt remarkable place to our purpoſe, which we have from the Mouth of God himſelf, <hi>Exod.</hi> 4.16. where ſpeaking to <hi>Moſes</hi> he ſaith <hi>Thou ſhalt be to him</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a God,</hi> which the Seventy ren<g ref="char:EOLhyphen"/>der thus,<note place="margin">Tu autem eris ei in his quae ad De<g ref="char:EOLhyphen"/>um pertinent. Nonnulli recen<g ref="char:EOLhyphen"/>tiores perſpicne admodum red<g ref="char:EOLhyphen"/>diderunt, &amp; ipſe tibi pro Deo.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i. e.</hi> Thou ſhalt be in the ſtead of God; thou ſhalt re<g ref="char:EOLhyphen"/>preſent my Perſon, in commanding and judging and revealing my Will to him; which is the very ſame with that of <hi>Exod.</hi> 7.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I have appointed thee God over Pharaoh;</hi> I have given the Power of Life and Death into thine Hands, I have placed thee <hi>in his Throne,</hi> in his Authority <hi>who judgeth right;</hi> I have ſubſtituted thee chief Agent in this weighty Matter. But that which will clear the point moſt effectually, is what is recorded in <hi>Pſal.</hi> 82.1.
+<pb n="8" facs="tcp:110057:9"/>
+               <hi>God ſtandeth in the congregation of the mighty, he is a Judge among Gods;</hi> the Word in the Original is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is the Name of the Omnipotent God; and then theſe Words muſt be read thus, <hi>God ſtandeth in the Congregation</hi> of God, <hi>i. e.</hi> in his own Judicature, or in that Judicature which is erected and authorized by him, <hi>i. e.</hi> it is by Gods Commiſſion that Judges act, and they do really perſonate God himſelf. Thus the <hi>Jewiſh Arab</hi> (as Dr. <hi>Hammond</hi> obſerves) gloſſes upon it, obſerving that there is a repetition of the Name again inſtead of the Affix.</p>
+            <p>But I ſhall not ſtay any longer upon the proof of this Propoſition, but ſhall rather chuſe to pro<g ref="char:EOLhyphen"/>ceed to draw ſuch Obſervations, as are deducible from this firſt Head; and therein I ſhall obſerve.</p>
+            <p n="1">I. That if Judges do perſonate God, then they ought to act, as they are convinced God would do if he ſat in their place, as they do in his.</p>
+            <p>And here perhaps ſome Perſons would not think it any digreſſion, ſhould I draw a Scheme of the Magiſtrates Duty, and ſhew wherein they ought to be <hi>Righteou as Goâ is Righteous, and Merciful as that great Judge of all the Earth is ſo.</hi> But this, <hi>my Lord,</hi> would be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>To light a Candle in order to add Luſtre to the Sun in its noon day Glory.</hi> And ſhould I herein go about to inſtruct you in your Duty, I ſhould think that I tranſgreſſed my own. But yet I hope it may not be unbecoming this place or this Aſſembly, if I a little deſcant upon thoſe two Cardinal Attributes of God, which he exerciſeth as a Judge, <hi>viz. His
+<pb n="9" facs="tcp:110057:9"/>Justice and his Mercy,</hi> and leave it to your particular Breaſt, to conſider how far you are concerned to Copy after ſo fair an Original.</p>
+            <p>Firſt then, I deſire you to conſider of the impar<g ref="char:EOLhyphen"/>tial Juſtice of that great God whom you perſonate. <hi>Surely he will not do wickedly, neither will the Almighty pervert judgment,</hi> &amp;c. Job 34.12. <hi>For who ever pe<g ref="char:EOLhyphen"/>riſht beìng innocent, or where were the righteous cut off?</hi> Job 4.7.</p>
+            <p>There are two things which are more particular<g ref="char:EOLhyphen"/>ly preſſing upon a Perſon to deviate from the Rules of Juſtice, <hi>viz.</hi>
+            </p>
+            <p>Firſt, Favor or Affection, and Secondly, Intereſt. Now that God is no way wrapt or byaſs'd with ei<g ref="char:EOLhyphen"/>ther of theſe, even the Words in the latter part of my Text aſſure us. <hi>For with the Lord our God, there is no reſpect of perſons nor taking of gifts.</hi> The greateſt Pomp and the moſt ſplendid retinue, is no motive to his Favor; nor can the largeſt Fortune bribe him to be unjuſt. It is Innocency alone that can beſpeak his Love, and Simplicity of Heart that can engage his Affection; <hi>All his ways are Righteouſneſs and Truth,</hi> and the Man that is not upright, be he what he will, muſt tremble at his Bar. There the poor helpleſs Orphan ſhall have his complaint heard, though he cannot plead for himſelf; and the Tears of the Wi<g ref="char:EOLhyphen"/>dow and the Afflicted ſhall be a convincing Dialect. <hi>There is no reſpect of</hi>
+               <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Col.</hi> 3.25.</note> 
+               <hi>Face</hi> or For<g ref="char:EOLhyphen"/>tune with him; but the Rich and the Poor, the Courſe and the
+<pb n="10" facs="tcp:110057:10"/>Well-favoured, ſhall be weighed in the Balance of Juſtice, and ſentence ſhall be paſſed without<note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>1. Tim 5.21.</hi> Metaphora ſumpta a libra cujus lanx alter'a praeponderat. ita ut nullum eſt aequilibrium.</note> Partiality and without Hypocriſie.</p>
+            <p>It is recorded of <hi>Ceſar,</hi> that in hearing of a Cauſe betwixt <hi>Caſſius</hi> and <hi>Brutus,</hi> he confeſſed, <hi>Melior cauſa</hi> Caſſii, <hi>ſed denegare</hi> Bruto <hi>nihil poſſit;</hi> That <hi>Caſſius</hi> had Juſtice on his ſide, but yet <hi>Brutus</hi> was his Favorite, and therefore he muſt give Sentence for him. But <hi>far be it from God that he ſhould do wickedneſs, and from the Almighty that he ſhould com<g ref="char:EOLhyphen"/>mit iniquity.</hi> Job 34.10. <hi>He will be juſt in all his Ways, and righteous in all his Works, his Ways are equal</hi> tho done in the dark, and his Juſtice irreproveable tho acted in ſecret; in a Word, Impartial Juſtice <hi>is the Habitation of his Throne,</hi> and without <hi>any reſpect of Perſons; he gives to every Man according to his Works.</hi>
+            </p>
+            <p>It is an Obſervation as old as <hi>Tully,</hi>
+               <note n="*" place="margin">
+                  <hi>2</hi> Ac, in Verrem.</note> 
+               <hi>Ingentes divitiae judiciorum religionem veritatemque ſolent perfringere;</hi> which I ſhall chuſe to explain by the Mouth of God himſelf, <hi>Deut.</hi> 16.19. <hi>A gift doth blind the eyes of the wiſe, and pervert the words of the righteous.</hi> But now God will not be caught with ſuch trifling Baits as theſe; <hi>For their ſil<g ref="char:EOLhyphen"/>ver and their gold ſhall not be able to deliver them in the wrath of the Lord. Ezech.</hi> 7.19. It is true indeed, <hi>Intereſt</hi> is the great Wheel of Motion in this lower Orb, the Ploughman and Mechanick, the Soldier and
+<pb n="11" facs="tcp:110057:10"/>the Merchant, the Lawyer and the Stateſman, the Politician and the Magiſtrate, nay I may add the Scholar and the Preacher, do all exert their Faculties, and ſpend their Labor and their Oyl, in hopes of In<g ref="char:EOLhyphen"/>tereſt and Advantage. The Fatigue and Heat of the Day, would be really grievous and uneaſie, were there no <hi>recompence of Reward</hi> even in this World. But yet that Perſon <hi>who juſtifies the Wicked for Reward, and by that means takes away the righteouſneſs of the Right<g ref="char:EOLhyphen"/>eous from him,</hi> deviates from the Rules of his great Maſter, whom he perſonates, who hath without any reſerve declared, that <hi>The wickedneſs of the Wicked ſhall be upon him, and the righteouſneſs of the Righteous ſhall be upon him. Will the Lord be pleas'd with Thouſands of Rams, or Ten Thouſands of Rivers of Oyl; will</hi> Agag<hi>'s fatter Cattle</hi> be to him a Peace Offering, or will the richeſt Oblations of the Sinner, be grateful in his Eye? No, <hi>To do juſtice and judgment is more acceptable to him than ſacrifice. Prov.</hi> 21.3. and in theſe <hi>he hath more pleaſure than in Burnt Offerings for ſin. Heb.</hi> 10.6. God never paſſeth by the Failures of a Man becauſe rich, nor doth he ever diſregard a juſt Plea, becauſe the Perſon is poor, or a Widow: he ſuffers not the Plaintiffs Cauſe to want weight, only becauſe the Cli<g ref="char:EOLhyphen"/>ents Pocket doth ſo, nor will he wink at a falſe Ver<g ref="char:EOLhyphen"/>dict, in the behalf of the Defendant, for all the Riches of <hi>Licinius</hi> or <hi>Achoemenes. For the righteous Lord loveth righteouſneſs, and his eyes behold the thing that is upright, yea his eyes are always open to the righteous,</hi> and his Hands always ready to deal <hi>to every man according to the fruit of his doings. Jer.</hi> 17.10. But then.</p>
+            <pb n="12" facs="tcp:110057:11"/>
+            <p>Secondly, as God is juſt ſo he is merciful likewiſe, yea <hi>his mercy is over all his works.</hi> And although in this, Earthly Magiſtrates have not power to act ac<g ref="char:EOLhyphen"/>cording to the meaſures of the Almighty, becauſe he hath an abſolute Dominion over the Creature, and may do what he will with his own; whereas Earthly Judges are oblig'd to paſs Sentence <hi>Secundum allegata &amp; probata;</hi> yet Mercy being the Triumphant Attribute of Heaven, 'tis fit that they, who perſonate God in his Juſtice, ſhould in ſome meaſure tread in the ſteps of his Compaſſion too, tho they cannot make ſo deep an impreſſion. And in order to this, I ſhall only deſire them to conſider, That God doth not at all times in<g ref="char:EOLhyphen"/>flict an equal Puniſhment upon two Perſons, tho guil<g ref="char:EOLhyphen"/>ty of the Breach of the ſame Law; but hath Recourſe to a <hi>Geometrical Proportion,</hi> and either increaſes or abates his Inflictions as it ſuits to his Juſtice, intermixed with his Mercy, and directed by his Wiſdom; as for in<g ref="char:EOLhyphen"/>ſtance. This Man was hurried on by a violent ſtrength of Temptation; That willfully run himſelf into the ſame Sin; This Sin has grown to a Habit in that Perſon; but 'tis the firſt time, and that by ſur<g ref="char:EOLhyphen"/>priſe, that ever this man ſinned in that nature. That Man broke through all the ſtrong Encloſure of God's aſſiſting Grace; This Perſon was laid open to the Temptation. This was but <hi>a babe in Chriſt;</hi> That has been <hi>fed with the ſtrong meat of the Goſpel.</hi> This Perſons Baſhfulneſs led him to <hi>ſin in the dark;</hi> That had a <hi>whores Forhead,</hi> and committed his Iniquity at Noon<g ref="char:EOLhyphen"/>day.</p>
+            <pb n="13" facs="tcp:110057:11"/>
+            <p>Here, tho the Sin be the ſame in ſeveral Perſons, yet theſe Circumſtances will engage God to exert his Mer<g ref="char:EOLhyphen"/>cy more largely towards one than towards the other: Thus does he <hi>make way to his anger,</hi> or as we read it in the vulgar Latin, <hi>Librat viam ad iram ſuam;</hi> He weighs the way to his Indignation, conſiders each Punctilio of the fault, and catches at every Circum<g ref="char:EOLhyphen"/>ſtance which will open a Door to the poor Offender: For altho he does not <hi>reſpect Perſons,</hi> yet <hi>he will not deſtroy the Righteous with the Wicked: The Righteous,</hi> who altho Sinners, yet are comparitively <hi>Righteous, with the wicked,</hi> who are habitually or wilfully ſuch. And as God obſerves a meaſure in criminal, ſo does he likewiſe in judicial Proceedings. He will not encou<g ref="char:EOLhyphen"/>rage thoſe who contend for Smoke, for a Trifle, (tho their Cauſe be juſt) ſo much as he will thoſe whoſe all lies at ſtake. <hi>i. e.</hi> God would not, did he ſit in our Courts of Judicature, give Light for ſo large da<g ref="char:EOLhyphen"/>mage to a <hi>Boutifeu,</hi> or a common Barretter, as he would to an oppreſſed Widow, or a defrauded Orphan; for he always has a <hi>favour to the peaceable;</hi> but the Turbulent and Contentious <hi>his Soul is not with them.</hi> He eſpecially ſhews Mercy to thoſe who are not able to do themſelves Juſtice, and will relieve the oppreſ<g ref="char:EOLhyphen"/>ſed <hi>innocent out of his hands who is too strong for him.</hi>
+            </p>
+            <p>Theſe are briefly the Rules, This the Method, which God Almighty follows in the Exerciſe of his <hi>Juſtice</hi> and his <hi>Merty.</hi> To which I might add ſeveral weighty Reaſons to move you to go and do likewiſe; but your known Integrity and great Wiſdom will be
+<pb n="14" facs="tcp:110057:12"/>a ſufficient bar for my not doing ſo; eſpecially ſince I may, and that moſt juſtly too, accoſt you in the ſame words that the <hi>Widow of</hi> Tekoah <hi>did King</hi> David, <hi>That as an Angel of God, ſo are you,</hi> my Lord, <hi>to diſcern be<g ref="char:EOLhyphen"/>tween good and bad.</hi> 2 Sam. 14.17. And therefore 'twould be the greateſt breach of Charity in the World to think you would act againſt Knowledg, ſince you have never yet given one inſtance either of your Inju<g ref="char:EOLhyphen"/>ſtice or Incompaſſion. However be pleas'd to give me leave to ſpeak to you in the words of one of the firſt Fathers and Martyrs of the Primitive Church; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Juſtin Mart;</hi> God hath given you his own Honour, his own Place, his own Name; therefore do you judg the People, as he himſelf would judg them. Which is our firſt Obſer<g ref="char:EOLhyphen"/>vation deducible from our firſt Particular, That if Judges perſonate God, then they ought to act as they are convinc'd he would do, were he in their ſtead, as they are in his.</p>
+            <p>Secondly, If they perſonate God, then we ought to honour and pay a Civil Regard to them. And here I ſhall not Treat of that Reſpect which is due to them when off the Bench; for that every one will yield that underſtands the Meaſures of Civility; and thoſe that do not, their Scarlet and their Trophies, their Coaches and Attendance, will attract them to do ſo. But I ſhall inſiſt on that part of Regard which is due to them as <hi>Vice Gods,</hi> in order to the promoting Juſtice and the ad<g ref="char:EOLhyphen"/>vancement of Truth and Judgment. And herein every
+<pb n="15" facs="tcp:110057:12"/>man ought to conſider, whether, if God were in Per<g ref="char:EOLhyphen"/>on upon the Bench, he would dare to give <hi>that Almighty Being</hi> the trouble of deciding that Cauſe, in which he knew in Point of Juſtice, a Verdict ought to brought againſt him. Would a Defendant put in a Plea, which would appear evidently unjuſt in the Eye of that <hi>Judg who ſeeth all things?</hi> Or would a Witneſs atteſt that which his Conſcience told him was an untruth, were he to Swear in the viſible Preſence of that God, who hath enjoyn'd him <hi>not to bare falſe Witneſs againſt his Neighbour?</hi> Would an Advocate <hi>call good Evil, or evil Good,</hi> would he by a ſly Suggeſtion endeavour to ener<g ref="char:EOLhyphen"/>vate the Sinews of the Law, did he really ſee God in the Court; or would he ſay to his Client thy Cauſe is Right, when he knew nothing could make it ſo but Favour or a Fee, a ſophiſtical Pleader, or a corrupt Judg? Would he dare to pick the Clients Pocket by ſubtle delays and falſhood, or ſupplant and undermine the Truth, to obtain either Intereſt or Reputation to himſelf? Theſe things would not be done if God were in Court in ſome viſible Schechinah; and therefore, Whoever is guilty of any of theſe fallacious Quirks, is as really peccant as if God ſtood as Judg before him. For ſince <hi>we cvnnot ſee him Face to Face and live,</hi> 'tis a Mercy that he is pleas'd to conſult our Intereſt and Security ſo far, as to Commiſſionate one to Act in his ſtead; and therefore if we be guilty of any of theſe colluſive Tricks, and diſingenious Behaviour; we may ſuppoſe that he will reaſon with us in thoſe Words of our Sa<g ref="char:EOLhyphen"/>viour in another Caſe, <hi>In as much as you did it unto one of theſe, you did it unto me,</hi> Math. 25.40. In that you
+<pb n="16" facs="tcp:110057:13"/>have gone about to ſtop the Current of Juſtice, and <hi>to turn judgment into wormwood,</hi> Amos 5.7. by gloſſing over a bad Cauſe with the Paint of Inſincerity an Falſ<g ref="char:EOLhyphen"/>hood; in that you have given in a falſe Teſtimony againſt your Neighbour, or brought in a falſe Verdict againſt the innocent and oppreſſed; in that you have not, to the beſt of your knowledg, laid all things nak<g ref="char:EOLhyphen"/>ed and open before my Deputy; but have, through the Cloud of your Impiety, darken'd his Underſtanding and his Knowledg; you have, as much as in you lay, endeavour'd to cheat and delude <hi>the judge of all the Earth;</hi> and have in effect in open Court boldly pro<g ref="char:EOLhyphen"/>claim'd, <hi>How doth God know, can he judg through the dark Cloud,</hi> Job 22.13. <hi>Tuſh he ſeeth not, is there knowledg in the moſt High?</hi> Which leads me to the Second thing conſiderable, <hi>viz.</hi> That as Judges perſonate God, ſo he is a conſtant Eye Witneſs of all their Proceedings. <hi>Take heed what you do; for you judg not for man, but for the Lord, who is with you in the judgment.</hi>
+            </p>
+            <p>I am not ignorant that many Learned Commenta<g ref="char:EOLhyphen"/>tors have interpreted theſe words, <hi>is with you in the judg<g ref="char:EOLhyphen"/>ment,</hi> in a twofold Acceptation</p>
+            <list>
+               <item>Firſt, That <hi>he is with them</hi> to take notice of and eye all their Proceedings.</item>
+               <item>Secondly, to aſſiſt them, or as the Prophet ſpeaks, <hi>Iſa.</hi> 28.5, 6. <hi>To be a Spirit of judgment to him that ſit<g ref="char:EOLhyphen"/>teth in judgment.</hi>
+               </item>
+            </list>
+            <p>But I ſhall for Brevity ſake, confine my ſelf at this time to ſpeak to theſe words only in the former Senſe, that being moſt ſuitable to ſtrike all that are concern'd
+<pb n="17" facs="tcp:110057:13"/>in this publick Solemnity, into an awful Reverence of that great <hi>Judg of Heaven and Earth,</hi> by reaſon of his immediate Preſence in the midſt of them.</p>
+            <p>
+               <q>It was wholſom Advice that one gave to his lewd Friend, That he ſhould have the Picture of his grave and ſerious Father in the Room where he was wont to celebrate his Debauches; imagining that the ſevere Eye of the good old Man, tho but in Effigie, would give check to the wanton Sallies of the intemperate Youth.</q> And to the ſame pur<g ref="char:EOLhyphen"/>poſe <hi>Seneca</hi> adviſed <hi>Lucilius,</hi> to fix the Idea of ſome grave Perſon a <hi>Cato</hi> or a <hi>Laelius</hi> before him,<note place="margin">
+                  <hi>Epiſt</hi> 11.</note> as a very convincing Method to reſtrain him from Vanity and Exceſs. To which I might add that of <hi>Zeno,</hi> who being ask'd by his Friends <hi>how they might keep themſelves in a regular and due Order when he was gone,</hi> he made this reply, <hi>Si me preſentem ſemper putetis;</hi> by <hi>imagining me to be always preſent as a beholder of your Acti<g ref="char:EOLhyphen"/>ons.</hi> But we who live under the Diſpenſation of the Goſpel have no need of ſuch Foreign Exhortation as theſe, <hi>we have a more ſure word of Prophecy,</hi> which does direct us to level our Thoughts and fix our Apprehen<g ref="char:EOLhyphen"/>ſions upon an Object infinitely ſurmounting thoſe in prophane Story. We are taught that God is a conſtant Spectator of all our Actions; that we are in the Eye of our Friend, our Father, and our Judge; that <hi>we can go no whether from his preſence,</hi> Pſ. 139.7, 8. <hi>but that all things are naked and open before that great God, with whom we have to do.</hi> Heb. 4.12, 13. And that <hi>no man</hi> let his at<g ref="char:EOLhyphen"/>tempts be never ſo earneſt, <hi>can hide himſelf</hi> or his Actions <hi>in ſecret places, that this Lord ſhall not ſee them.</hi> Jer. 23.24.</p>
+            <pb n="18" facs="tcp:110057:14"/>
+            <p>And indeed theſe Thoughts are ſo riveted in the mind of every Chriſtian, that nothing but a dark Cloud of Impiety can obſcure our belief of it. An upright Judg is fully convinced that God ſees the in<g ref="char:EOLhyphen"/>tention of his Heart; and an uncorrupt Pleader is the very ſame. A faithful Witneſs knows that the Al<g ref="char:EOLhyphen"/>mighty is in the Court; and an impartial Jury does ſo too. In ſhort, <hi>The good man ſets the Lord always be<g ref="char:EOLhyphen"/>fore him,</hi> Pſ. 16.8. and does really think that God ſtands by and ſees all the Paſſages of his Life. And therefore I ſhall be ſo charitable as to believe that you all agree in the Aſſertion, and ſhall inſiſt no longer upon the proof of it, leaſt by ſo doing, I ſhould ſeem to bring the Integrity of ſome of you into queſtion. Proceed I therefore to draw only one practical Obſer<g ref="char:EOLhyphen"/>vation from this ſecond Propoſition, and ſo I ſhall conclude.</p>
+            <p>Doth God eye all your Proceedings, Then I pray you, conſider to what purpoſe it is to varniſh over a bad Cauſe with the Fucus of Oratory, or the Paint of ſpecious Pretences? What ſignifies the being brib'd in the dark, or ſuborn'd in a corner? To what purpoſe is the ſmothering your Falſhood from the eye of Men, <hi>when it is ſeen and view'd by that great God, who knoweth all the hearts of the children of men,</hi> 1 Kings 8.39. <hi>and the ſecrets thereof,</hi> Pſ. 44.21.</p>
+            <p>It is an ingenious Compariſon, (and very well ſuits this Caſe) which is put by a modern Writer. <q>Suppoſe (ſays he) that you beheld the Almighty,<note place="margin">Dr. Scott<hi>'s</hi> Chriſtian Life. part 1.</note> being fitting upon a Cloud in ſome viſible Form, with a
+<pb n="19" facs="tcp:110057:14"/>Thunder-Bolt in his Hand, and from thence looking down upon you, curiouſly obſerving how you de<g ref="char:EOLhyphen"/>mean your ſelves, and cloſely purſuing you with his awful Eye, through all your dark Retreats and Pri<g ref="char:EOLhyphen"/>vacies; would not the Thought of any Action that is diſpleaſing to him be ready to ſtrike you into Trembling and Horror; could you imagine your ſelves to be any where ſecure in your Wickedneſs, while you ſaw your ſelves uncovered to his Allſee<g ref="char:EOLhyphen"/>ing Eye, to which your Cloſets lie as open as your Halls, and your Hearts as the Highways?</q> 
+               <hi>To which he adds farther,</hi> 
+               <q>If I were throughly aſſured that the King were liſtning behind the Curtain, and heard eve<g ref="char:EOLhyphen"/>ry Word that is ſpoken in the Room, I ſhould doubt<g ref="char:EOLhyphen"/>leſs be as much afraid of talking Treaſon againſt him tho I ſaw him not, as if he ſtood juſt before me.</q> And ſo if God be in your Court in an inviſible man<g ref="char:EOLhyphen"/>ner, and you are not able to ſee him through that thick Curtain of Matter, which is drawn between you and his ſpiritual Eſſence; yet you may be well aſ<g ref="char:EOLhyphen"/>ſured, that he is behind it, is liſtning to what you ſay, and prying into what you do; keeps intelligence with your Thoughts, and is intimately acquainted with all your Pleadings, your Evidence and your Awards; and therefore you ought to be every jot as cautious of all your Proceedings, as if you ſaw him ſtanding by you, to record every Thought, every Word, and e<g ref="char:EOLhyphen"/>very Action that there paſſes, and to enter into his Debt-Books every Item of your Guilt, againſt the great Day of Account.</p>
+            <pb n="20" facs="tcp:110057:15"/>
+            <p>Juſtice is every Mans Birth-right, and a Man can with no more Equity bereave me of it, than he can take away my Life, my Liberty or Eſtate; and there<g ref="char:EOLhyphen"/>fore he that either doth ſo himſelf, or by falſe Witneſs, or the like, occaſions others to do ſo, is not only un<g ref="char:EOLhyphen"/>faithful to his Truſt, but is indeed a Felon and an U<g ref="char:EOLhyphen"/>ſurper; robbing me of that, to which I have not on<g ref="char:EOLhyphen"/>ly a Claim by Nature, but by the Laws of the Realm too; and therefore muſt expect to have a very ſevere Sentence paſſed upon him, when he gives up his Ac<g ref="char:EOLhyphen"/>counts to that God, who was an Eye-witneſs of his Failures.</p>
+            <p>To conclude; I remember 'tis recorded of <hi>Henry</hi> IV. that ſo great was his Wiſdom, ſo conſiderable his depth of Knowledg, that 'twas ſaid, <hi>that he that would corrupt his Council, muſt firſt begin with the King.</hi> And bleſſed be God, we may as truly ſay that our Laws are ſo exactly contrived, our Courts ſo well fil<g ref="char:EOLhyphen"/>led with Men of Politie and profound Parts, that he that would <hi>pervert Judgment</hi> muſt begin with the Bench; for it is ſcarce poſſible to imagine, that Inju<g ref="char:EOLhyphen"/>ſtice can be ſo cloſely managed, either upon the ac<g ref="char:EOLhyphen"/>count of Witneſs, Jury, or Advocate, as that a Cauſe ſhall ſuffer without the Knowledg of the Judge, who like <hi>Solomon,</hi> will in all probability find out the Falla<g ref="char:EOLhyphen"/>cy, under the moſt cloſe Diſguiſe.</p>
+            <p>And therefore give me leave <hi>my Lord</hi> to add, that if you be not wanting to your ſelf and to us, we may be aſſured, that <hi>Juſtice will run down like a mighty Tor<g ref="char:EOLhyphen"/>rent, and that there will be no complaining in our Streets.</hi>
+               <pb n="21" facs="tcp:110057:15"/>Let me take the Freedom therefore once more to re<g ref="char:EOLhyphen"/>mind you, that you muſt one day appear at the Bar of that great God whom you perſonate, and <hi>who is a Judge among Gods. Hear therefore the word of the Lord &amp;c. Thus ſaith the Lord, execute ye judgment and righteouſneſs, and deliver the ſpoiled out of the hand of the oppreſſor; do no wrong, do no violence to the ſtranger, neither ſhed innocent blood in this place. Jer.</hi> 22.1. <hi>&amp;c. Ezek.</hi> 42.27. <hi>but defend the poor and fatherleſs, do juſtice to the afflicted and needy, and rid them out of the hand of the wicked;</hi> and in all your Proceedings, both <hi>Judicial</hi> and <hi>Criminal, Take heed what you do, for ye judge not for man but for the Lord, who is with you in the judgment: wherefore let the fear of the Lord be upon you, take heed and do it, for there is no iniquity with the Lord our God, nor reſpect of perſons nor taking of gifts.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110057:16"/>
+            <pb facs="tcp:110057:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
